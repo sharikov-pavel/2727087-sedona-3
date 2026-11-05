@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Павел Шариков](https://up.htmlacademy.ru/htmlcss-individual/3/user/2727087).
-* Наставник: `Неизвестно`.
+* Наставник: [Малик Киров](https://htmlacademy.ru/profile/id17217).
 
 ---
 
