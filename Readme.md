@@ -2,6 +2,7 @@
 
 * Студент: [Павел Шариков](https://up.htmlacademy.ru/htmlcss-individual/3/user/2727087).
 * Наставник: [Малик Киров](https://htmlacademy.ru/profile/id17217).
+* Сайт [Учебный проект Седона](https://sharikov-pavel.github.io/2727087-sedona-3/)
 
 ---
 
